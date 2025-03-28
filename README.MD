@@ -24,15 +24,18 @@ Clone the repo
 ```bash
 git clone https://github.com/oglego/generative-ai.git
 cd hf-gpt2
+```
 
 Install the required dependencies
 
 ```bash
 pip install -r requirements.txt
+```
 
 Run the app
 
 ```bash
 python app.py
+```
 
 Open your browser and navigate to http://127.0.0.1:5000
